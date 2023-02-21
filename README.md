@@ -1,1 +1,1 @@
-# -llk-ödev
+kendimi tanıtma
